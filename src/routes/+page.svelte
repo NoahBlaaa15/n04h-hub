@@ -1,3 +1,6 @@
+<svelte:head>
+    <title>Noah Siebart</title>
+</svelte:head>
 <style>
     .radial-background {
         background-image: radial-gradient(rgba(22, 101, 52, 0.25) 9%, transparent 9%); background-position: 0% 0%; background-size: 12vmin 12vmin;
